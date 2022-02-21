@@ -13,8 +13,5 @@
 }
 
 .banner-img {
-    background-image: url(../src/assets/images/Image 1.png);
     font-family: PlayfairDisplay;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
